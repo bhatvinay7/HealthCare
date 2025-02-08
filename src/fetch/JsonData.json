@@ -1,0 +1,1802 @@
+[
+    {
+        "doctor_name": "Dr. Amit Sharma",
+        "experience_in_years": 10,
+        "speciality": "Cardiology",
+        "doctor_image": "https://example.com/dr.-amit-sharma.jpg",
+        "language_speaks": [
+            "Hindi",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Mumbai",
+        "gender": "Male",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Amit Sharma  \nDr. Amit Sharma is a highly experienced cardiology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Amit Sharma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Amit Sharma has over 10 years of experience in cardiology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Angioplasty",
+            "Pacemaker Implantation"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Heart Attack treatment.  \n- Published studies on Arrhythmia in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Cardiology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to cardiology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Angioplasty",
+            "Pacemaker Implantation",
+            "Echocardiography"
+        ],
+        "conditions": [
+            "Heart Attack",
+            "Arrhythmia",
+            "Hypertension"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Rajesh Verma",
+        "experience_in_years": 11,
+        "speciality": "Neurology",
+        "doctor_image": "https://example.com/dr.-rajesh-verma.jpg",
+        "language_speaks": [
+            "Tamil",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Delhi",
+        "gender": "Female",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Rajesh Verma  \nDr. Rajesh Verma is a highly experienced neurology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Rajesh Verma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Rajesh Verma has over 11 years of experience in neurology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "EEG",
+            "Stroke Treatment"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Epilepsy treatment.  \n- Published studies on Multiple Sclerosis in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Neurology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to neurology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "EEG",
+            "Stroke Treatment",
+            "Neuro Rehabilitation"
+        ],
+        "conditions": [
+            "Epilepsy",
+            "Multiple Sclerosis",
+            "Parkinson's Disease"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Priya Gupta",
+        "experience_in_years": 12,
+        "speciality": "Orthopedics",
+        "doctor_image": "https://example.com/dr.-priya-gupta.jpg",
+        "language_speaks": [
+            "Telugu",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Bangalore",
+        "gender": "Male",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Priya Gupta  \nDr. Priya Gupta is a highly experienced orthopedics specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Priya Gupta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Priya Gupta has over 12 years of experience in orthopedics treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Knee Replacement",
+            "Hip Replacement"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Osteoarthritis treatment.  \n- Published studies on Fractures in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Orthopedics Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to orthopedics.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Knee Replacement",
+            "Hip Replacement",
+            "Arthroscopy"
+        ],
+        "conditions": [
+            "Osteoarthritis",
+            "Fractures",
+            "Rheumatoid Arthritis"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Neha Rao",
+        "experience_in_years": 13,
+        "speciality": "Pediatrics",
+        "doctor_image": "https://example.com/dr.-neha-rao.jpg",
+        "language_speaks": [
+            "Kannada",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Chennai",
+        "gender": "Female",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Neha Rao  \nDr. Neha Rao is a highly experienced pediatrics specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Neha Rao has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Neha Rao has over 13 years of experience in pediatrics treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Child Vaccination",
+            "Growth Monitoring"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Flu treatment.  \n- Published studies on Nutritional Deficiencies in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Pediatrics Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to pediatrics.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Child Vaccination",
+            "Growth Monitoring",
+            "Pediatric Surgery"
+        ],
+        "conditions": [
+            "Flu",
+            "Nutritional Deficiencies",
+            "Developmental Delays"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Vikram Mehta",
+        "experience_in_years": 14,
+        "speciality": "Dermatology",
+        "doctor_image": "https://example.com/dr.-vikram-mehta.jpg",
+        "language_speaks": [
+            "Bengali",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Hyderabad",
+        "gender": "Male",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Vikram Mehta  \nDr. Vikram Mehta is a highly experienced dermatology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Vikram Mehta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Vikram Mehta has over 14 years of experience in dermatology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Laser Treatment",
+            "Acne Management"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Eczema treatment.  \n- Published studies on Psoriasis in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Dermatology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to dermatology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Laser Treatment",
+            "Acne Management",
+            "Skin Allergy Treatment"
+        ],
+        "conditions": [
+            "Eczema",
+            "Psoriasis",
+            "Hyperpigmentation"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Anjali Sharma",
+        "experience_in_years": 15,
+        "speciality": "Oncology",
+        "doctor_image": "https://example.com/dr.-anjali-sharma.jpg",
+        "language_speaks": [
+            "Hindi",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Kolkata",
+        "gender": "Female",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Anjali Sharma  \nDr. Anjali Sharma is a highly experienced oncology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Anjali Sharma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Anjali Sharma has over 15 years of experience in oncology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Chemotherapy",
+            "Radiotherapy"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Lung Cancer treatment.  \n- Published studies on Breast Cancer in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Oncology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to oncology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Chemotherapy",
+            "Radiotherapy",
+            "Cancer Screening"
+        ],
+        "conditions": [
+            "Lung Cancer",
+            "Breast Cancer",
+            "Leukemia"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Amit Verma",
+        "experience_in_years": 16,
+        "speciality": "Endocrinology",
+        "doctor_image": "https://example.com/dr.-amit-verma.jpg",
+        "language_speaks": [
+            "Tamil",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Pune",
+        "gender": "Male",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Amit Verma  \nDr. Amit Verma is a highly experienced endocrinology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Amit Verma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Amit Verma has over 16 years of experience in endocrinology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Diabetes Management",
+            "Thyroid Disorder Treatment"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Diabetes treatment.  \n- Published studies on Thyroid Disorders in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Endocrinology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to endocrinology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Diabetes Management",
+            "Thyroid Disorder Treatment",
+            "Hormonal Therapy"
+        ],
+        "conditions": [
+            "Diabetes",
+            "Thyroid Disorders",
+            "Obesity"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Rajesh Gupta",
+        "experience_in_years": 17,
+        "speciality": "Gastroenterology",
+        "doctor_image": "https://example.com/dr.-rajesh-gupta.jpg",
+        "language_speaks": [
+            "Telugu",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Ahmedabad",
+        "gender": "Female",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Rajesh Gupta  \nDr. Rajesh Gupta is a highly experienced gastroenterology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Rajesh Gupta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Rajesh Gupta has over 17 years of experience in gastroenterology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Endoscopy",
+            "Colonoscopy"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Acid Reflux treatment.  \n- Published studies on IBS in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Gastroenterology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to gastroenterology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Endoscopy",
+            "Colonoscopy",
+            "Liver Disease Treatment"
+        ],
+        "conditions": [
+            "Acid Reflux",
+            "IBS",
+            "Hepatitis"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Priya Rao",
+        "experience_in_years": 18,
+        "speciality": "Nephrology",
+        "doctor_image": "https://example.com/dr.-priya-rao.jpg",
+        "language_speaks": [
+            "Kannada",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Jaipur",
+        "gender": "Male",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Priya Rao  \nDr. Priya Rao is a highly experienced nephrology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Priya Rao has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Priya Rao has over 18 years of experience in nephrology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Dialysis",
+            "Kidney Transplant"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Kidney Failure treatment.  \n- Published studies on Nephrotic Syndrome in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Nephrology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to nephrology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Dialysis",
+            "Kidney Transplant",
+            "Chronic Kidney Disease Treatment"
+        ],
+        "conditions": [
+            "Kidney Failure",
+            "Nephrotic Syndrome",
+            "Urinary Tract Infections"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Neha Mehta",
+        "experience_in_years": 19,
+        "speciality": "Psychiatry",
+        "doctor_image": "https://example.com/dr.-neha-mehta.jpg",
+        "language_speaks": [
+            "Bengali",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Lucknow",
+        "gender": "Female",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Neha Mehta  \nDr. Neha Mehta is a highly experienced psychiatry specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Neha Mehta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Neha Mehta has over 19 years of experience in psychiatry treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Depression Treatment",
+            "Anxiety Therapy"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Schizophrenia treatment.  \n- Published studies on Bipolar Disorder in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Psychiatry Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to psychiatry.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Depression Treatment",
+            "Anxiety Therapy",
+            "Cognitive Behavioral Therapy"
+        ],
+        "conditions": [
+            "Schizophrenia",
+            "Bipolar Disorder",
+            "OCD"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Vikram Sharma",
+        "experience_in_years": 20,
+        "speciality": "Pulmonology",
+        "doctor_image": "https://example.com/dr.-vikram-sharma.jpg",
+        "language_speaks": [
+            "Hindi",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Mumbai",
+        "gender": "Male",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Vikram Sharma  \nDr. Vikram Sharma is a highly experienced pulmonology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Vikram Sharma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Vikram Sharma has over 20 years of experience in pulmonology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Asthma Management",
+            "Sleep Apnea Treatment"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Bronchitis treatment.  \n- Published studies on Pneumonia in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Pulmonology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to pulmonology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Asthma Management",
+            "Sleep Apnea Treatment",
+            "COPD Treatment"
+        ],
+        "conditions": [
+            "Bronchitis",
+            "Pneumonia",
+            "Lung Fibrosis"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Anjali Verma",
+        "experience_in_years": 21,
+        "speciality": "Cardiology",
+        "doctor_image": "https://example.com/dr.-anjali-verma.jpg",
+        "language_speaks": [
+            "Tamil",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Delhi",
+        "gender": "Female",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Anjali Verma  \nDr. Anjali Verma is a highly experienced cardiology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Anjali Verma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Anjali Verma has over 21 years of experience in cardiology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Angioplasty",
+            "Pacemaker Implantation"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Heart Attack treatment.  \n- Published studies on Arrhythmia in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Cardiology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to cardiology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Angioplasty",
+            "Pacemaker Implantation",
+            "Echocardiography"
+        ],
+        "conditions": [
+            "Heart Attack",
+            "Arrhythmia",
+            "Hypertension"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Amit Gupta",
+        "experience_in_years": 22,
+        "speciality": "Neurology",
+        "doctor_image": "https://example.com/dr.-amit-gupta.jpg",
+        "language_speaks": [
+            "Telugu",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Bangalore",
+        "gender": "Male",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Amit Gupta  \nDr. Amit Gupta is a highly experienced neurology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Amit Gupta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Amit Gupta has over 22 years of experience in neurology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "EEG",
+            "Stroke Treatment"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Epilepsy treatment.  \n- Published studies on Multiple Sclerosis in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Neurology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to neurology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "EEG",
+            "Stroke Treatment",
+            "Neuro Rehabilitation"
+        ],
+        "conditions": [
+            "Epilepsy",
+            "Multiple Sclerosis",
+            "Parkinson's Disease"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Rajesh Rao",
+        "experience_in_years": 23,
+        "speciality": "Orthopedics",
+        "doctor_image": "https://example.com/dr.-rajesh-rao.jpg",
+        "language_speaks": [
+            "Kannada",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Chennai",
+        "gender": "Female",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Rajesh Rao  \nDr. Rajesh Rao is a highly experienced orthopedics specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Rajesh Rao has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Rajesh Rao has over 23 years of experience in orthopedics treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Knee Replacement",
+            "Hip Replacement"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Osteoarthritis treatment.  \n- Published studies on Fractures in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Orthopedics Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to orthopedics.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Knee Replacement",
+            "Hip Replacement",
+            "Arthroscopy"
+        ],
+        "conditions": [
+            "Osteoarthritis",
+            "Fractures",
+            "Rheumatoid Arthritis"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Priya Mehta",
+        "experience_in_years": 24,
+        "speciality": "Pediatrics",
+        "doctor_image": "https://example.com/dr.-priya-mehta.jpg",
+        "language_speaks": [
+            "Bengali",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Hyderabad",
+        "gender": "Male",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Priya Mehta  \nDr. Priya Mehta is a highly experienced pediatrics specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Priya Mehta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Priya Mehta has over 24 years of experience in pediatrics treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Child Vaccination",
+            "Growth Monitoring"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Flu treatment.  \n- Published studies on Nutritional Deficiencies in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Pediatrics Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to pediatrics.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Child Vaccination",
+            "Growth Monitoring",
+            "Pediatric Surgery"
+        ],
+        "conditions": [
+            "Flu",
+            "Nutritional Deficiencies",
+            "Developmental Delays"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Neha Sharma",
+        "experience_in_years": 10,
+        "speciality": "Dermatology",
+        "doctor_image": "https://example.com/dr.-neha-sharma.jpg",
+        "language_speaks": [
+            "Hindi",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Kolkata",
+        "gender": "Female",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Neha Sharma  \nDr. Neha Sharma is a highly experienced dermatology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Neha Sharma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Neha Sharma has over 10 years of experience in dermatology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Laser Treatment",
+            "Acne Management"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Eczema treatment.  \n- Published studies on Psoriasis in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Dermatology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to dermatology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Laser Treatment",
+            "Acne Management",
+            "Skin Allergy Treatment"
+        ],
+        "conditions": [
+            "Eczema",
+            "Psoriasis",
+            "Hyperpigmentation"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Vikram Verma",
+        "experience_in_years": 11,
+        "speciality": "Oncology",
+        "doctor_image": "https://example.com/dr.-vikram-verma.jpg",
+        "language_speaks": [
+            "Tamil",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Pune",
+        "gender": "Male",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Vikram Verma  \nDr. Vikram Verma is a highly experienced oncology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Vikram Verma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Vikram Verma has over 11 years of experience in oncology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Chemotherapy",
+            "Radiotherapy"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Lung Cancer treatment.  \n- Published studies on Breast Cancer in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Oncology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to oncology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Chemotherapy",
+            "Radiotherapy",
+            "Cancer Screening"
+        ],
+        "conditions": [
+            "Lung Cancer",
+            "Breast Cancer",
+            "Leukemia"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Anjali Gupta",
+        "experience_in_years": 12,
+        "speciality": "Endocrinology",
+        "doctor_image": "https://example.com/dr.-anjali-gupta.jpg",
+        "language_speaks": [
+            "Telugu",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Ahmedabad",
+        "gender": "Female",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Anjali Gupta  \nDr. Anjali Gupta is a highly experienced endocrinology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Anjali Gupta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Anjali Gupta has over 12 years of experience in endocrinology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Diabetes Management",
+            "Thyroid Disorder Treatment"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Diabetes treatment.  \n- Published studies on Thyroid Disorders in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Endocrinology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to endocrinology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Diabetes Management",
+            "Thyroid Disorder Treatment",
+            "Hormonal Therapy"
+        ],
+        "conditions": [
+            "Diabetes",
+            "Thyroid Disorders",
+            "Obesity"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Amit Rao",
+        "experience_in_years": 13,
+        "speciality": "Gastroenterology",
+        "doctor_image": "https://example.com/dr.-amit-rao.jpg",
+        "language_speaks": [
+            "Kannada",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Jaipur",
+        "gender": "Male",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Amit Rao  \nDr. Amit Rao is a highly experienced gastroenterology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Amit Rao has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Amit Rao has over 13 years of experience in gastroenterology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Endoscopy",
+            "Colonoscopy"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Acid Reflux treatment.  \n- Published studies on IBS in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Gastroenterology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to gastroenterology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Endoscopy",
+            "Colonoscopy",
+            "Liver Disease Treatment"
+        ],
+        "conditions": [
+            "Acid Reflux",
+            "IBS",
+            "Hepatitis"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Rajesh Mehta",
+        "experience_in_years": 14,
+        "speciality": "Nephrology",
+        "doctor_image": "https://example.com/dr.-rajesh-mehta.jpg",
+        "language_speaks": [
+            "Bengali",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Lucknow",
+        "gender": "Female",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Rajesh Mehta  \nDr. Rajesh Mehta is a highly experienced nephrology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Rajesh Mehta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Rajesh Mehta has over 14 years of experience in nephrology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Dialysis",
+            "Kidney Transplant"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Kidney Failure treatment.  \n- Published studies on Nephrotic Syndrome in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Nephrology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to nephrology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Dialysis",
+            "Kidney Transplant",
+            "Chronic Kidney Disease Treatment"
+        ],
+        "conditions": [
+            "Kidney Failure",
+            "Nephrotic Syndrome",
+            "Urinary Tract Infections"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Priya Sharma",
+        "experience_in_years": 15,
+        "speciality": "Psychiatry",
+        "doctor_image": "https://example.com/dr.-priya-sharma.jpg",
+        "language_speaks": [
+            "Hindi",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Mumbai",
+        "gender": "Male",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Priya Sharma  \nDr. Priya Sharma is a highly experienced psychiatry specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Priya Sharma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Priya Sharma has over 15 years of experience in psychiatry treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Depression Treatment",
+            "Anxiety Therapy"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Schizophrenia treatment.  \n- Published studies on Bipolar Disorder in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Psychiatry Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to psychiatry.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Depression Treatment",
+            "Anxiety Therapy",
+            "Cognitive Behavioral Therapy"
+        ],
+        "conditions": [
+            "Schizophrenia",
+            "Bipolar Disorder",
+            "OCD"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Neha Verma",
+        "experience_in_years": 16,
+        "speciality": "Pulmonology",
+        "doctor_image": "https://example.com/dr.-neha-verma.jpg",
+        "language_speaks": [
+            "Tamil",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Delhi",
+        "gender": "Female",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Neha Verma  \nDr. Neha Verma is a highly experienced pulmonology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Neha Verma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Neha Verma has over 16 years of experience in pulmonology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Asthma Management",
+            "Sleep Apnea Treatment"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Bronchitis treatment.  \n- Published studies on Pneumonia in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Pulmonology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to pulmonology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Asthma Management",
+            "Sleep Apnea Treatment",
+            "COPD Treatment"
+        ],
+        "conditions": [
+            "Bronchitis",
+            "Pneumonia",
+            "Lung Fibrosis"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Vikram Gupta",
+        "experience_in_years": 17,
+        "speciality": "Cardiology",
+        "doctor_image": "https://example.com/dr.-vikram-gupta.jpg",
+        "language_speaks": [
+            "Telugu",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Bangalore",
+        "gender": "Male",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Vikram Gupta  \nDr. Vikram Gupta is a highly experienced cardiology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Vikram Gupta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Vikram Gupta has over 17 years of experience in cardiology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Angioplasty",
+            "Pacemaker Implantation"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Heart Attack treatment.  \n- Published studies on Arrhythmia in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Cardiology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to cardiology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Angioplasty",
+            "Pacemaker Implantation",
+            "Echocardiography"
+        ],
+        "conditions": [
+            "Heart Attack",
+            "Arrhythmia",
+            "Hypertension"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Anjali Rao",
+        "experience_in_years": 18,
+        "speciality": "Neurology",
+        "doctor_image": "https://example.com/dr.-anjali-rao.jpg",
+        "language_speaks": [
+            "Kannada",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Chennai",
+        "gender": "Female",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Anjali Rao  \nDr. Anjali Rao is a highly experienced neurology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Anjali Rao has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Anjali Rao has over 18 years of experience in neurology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "EEG",
+            "Stroke Treatment"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Epilepsy treatment.  \n- Published studies on Multiple Sclerosis in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Neurology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to neurology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "EEG",
+            "Stroke Treatment",
+            "Neuro Rehabilitation"
+        ],
+        "conditions": [
+            "Epilepsy",
+            "Multiple Sclerosis",
+            "Parkinson's Disease"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Amit Mehta",
+        "experience_in_years": 19,
+        "speciality": "Orthopedics",
+        "doctor_image": "https://example.com/dr.-amit-mehta.jpg",
+        "language_speaks": [
+            "Bengali",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Hyderabad",
+        "gender": "Male",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Amit Mehta  \nDr. Amit Mehta is a highly experienced orthopedics specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Amit Mehta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Amit Mehta has over 19 years of experience in orthopedics treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Knee Replacement",
+            "Hip Replacement"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Osteoarthritis treatment.  \n- Published studies on Fractures in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Orthopedics Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to orthopedics.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Knee Replacement",
+            "Hip Replacement",
+            "Arthroscopy"
+        ],
+        "conditions": [
+            "Osteoarthritis",
+            "Fractures",
+            "Rheumatoid Arthritis"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Rajesh Sharma",
+        "experience_in_years": 20,
+        "speciality": "Pediatrics",
+        "doctor_image": "https://example.com/dr.-rajesh-sharma.jpg",
+        "language_speaks": [
+            "Hindi",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Kolkata",
+        "gender": "Female",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Rajesh Sharma  \nDr. Rajesh Sharma is a highly experienced pediatrics specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Rajesh Sharma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Rajesh Sharma has over 20 years of experience in pediatrics treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Child Vaccination",
+            "Growth Monitoring"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Flu treatment.  \n- Published studies on Nutritional Deficiencies in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Pediatrics Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to pediatrics.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Child Vaccination",
+            "Growth Monitoring",
+            "Pediatric Surgery"
+        ],
+        "conditions": [
+            "Flu",
+            "Nutritional Deficiencies",
+            "Developmental Delays"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Priya Verma",
+        "experience_in_years": 21,
+        "speciality": "Dermatology",
+        "doctor_image": "https://example.com/dr.-priya-verma.jpg",
+        "language_speaks": [
+            "Tamil",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Pune",
+        "gender": "Male",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Priya Verma  \nDr. Priya Verma is a highly experienced dermatology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Priya Verma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Priya Verma has over 21 years of experience in dermatology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Laser Treatment",
+            "Acne Management"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Eczema treatment.  \n- Published studies on Psoriasis in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Dermatology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to dermatology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Laser Treatment",
+            "Acne Management",
+            "Skin Allergy Treatment"
+        ],
+        "conditions": [
+            "Eczema",
+            "Psoriasis",
+            "Hyperpigmentation"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Neha Gupta",
+        "experience_in_years": 22,
+        "speciality": "Oncology",
+        "doctor_image": "https://example.com/dr.-neha-gupta.jpg",
+        "language_speaks": [
+            "Telugu",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Ahmedabad",
+        "gender": "Female",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Neha Gupta  \nDr. Neha Gupta is a highly experienced oncology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Neha Gupta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Neha Gupta has over 22 years of experience in oncology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Chemotherapy",
+            "Radiotherapy"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Lung Cancer treatment.  \n- Published studies on Breast Cancer in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Oncology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to oncology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Chemotherapy",
+            "Radiotherapy",
+            "Cancer Screening"
+        ],
+        "conditions": [
+            "Lung Cancer",
+            "Breast Cancer",
+            "Leukemia"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Vikram Rao",
+        "experience_in_years": 23,
+        "speciality": "Endocrinology",
+        "doctor_image": "https://example.com/dr.-vikram-rao.jpg",
+        "language_speaks": [
+            "Kannada",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Jaipur",
+        "gender": "Male",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Vikram Rao  \nDr. Vikram Rao is a highly experienced endocrinology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Vikram Rao has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Vikram Rao has over 23 years of experience in endocrinology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Diabetes Management",
+            "Thyroid Disorder Treatment"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Diabetes treatment.  \n- Published studies on Thyroid Disorders in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Endocrinology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to endocrinology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Diabetes Management",
+            "Thyroid Disorder Treatment",
+            "Hormonal Therapy"
+        ],
+        "conditions": [
+            "Diabetes",
+            "Thyroid Disorders",
+            "Obesity"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Anjali Mehta",
+        "experience_in_years": 24,
+        "speciality": "Gastroenterology",
+        "doctor_image": "https://example.com/dr.-anjali-mehta.jpg",
+        "language_speaks": [
+            "Bengali",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Lucknow",
+        "gender": "Female",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Anjali Mehta  \nDr. Anjali Mehta is a highly experienced gastroenterology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Anjali Mehta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Anjali Mehta has over 24 years of experience in gastroenterology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Endoscopy",
+            "Colonoscopy"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Acid Reflux treatment.  \n- Published studies on IBS in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Gastroenterology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to gastroenterology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Endoscopy",
+            "Colonoscopy",
+            "Liver Disease Treatment"
+        ],
+        "conditions": [
+            "Acid Reflux",
+            "IBS",
+            "Hepatitis"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Amit Sharma",
+        "experience_in_years": 10,
+        "speciality": "Nephrology",
+        "doctor_image": "https://example.com/dr.-amit-sharma.jpg",
+        "language_speaks": [
+            "Hindi",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Mumbai",
+        "gender": "Male",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Amit Sharma  \nDr. Amit Sharma is a highly experienced nephrology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Amit Sharma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Amit Sharma has over 10 years of experience in nephrology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Dialysis",
+            "Kidney Transplant"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Kidney Failure treatment.  \n- Published studies on Nephrotic Syndrome in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Nephrology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to nephrology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Dialysis",
+            "Kidney Transplant",
+            "Chronic Kidney Disease Treatment"
+        ],
+        "conditions": [
+            "Kidney Failure",
+            "Nephrotic Syndrome",
+            "Urinary Tract Infections"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Rajesh Verma",
+        "experience_in_years": 11,
+        "speciality": "Psychiatry",
+        "doctor_image": "https://example.com/dr.-rajesh-verma.jpg",
+        "language_speaks": [
+            "Tamil",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Delhi",
+        "gender": "Female",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Rajesh Verma  \nDr. Rajesh Verma is a highly experienced psychiatry specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Rajesh Verma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Rajesh Verma has over 11 years of experience in psychiatry treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Depression Treatment",
+            "Anxiety Therapy"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Schizophrenia treatment.  \n- Published studies on Bipolar Disorder in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Psychiatry Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to psychiatry.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Depression Treatment",
+            "Anxiety Therapy",
+            "Cognitive Behavioral Therapy"
+        ],
+        "conditions": [
+            "Schizophrenia",
+            "Bipolar Disorder",
+            "OCD"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Priya Gupta",
+        "experience_in_years": 12,
+        "speciality": "Pulmonology",
+        "doctor_image": "https://example.com/dr.-priya-gupta.jpg",
+        "language_speaks": [
+            "Telugu",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Bangalore",
+        "gender": "Male",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Priya Gupta  \nDr. Priya Gupta is a highly experienced pulmonology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Priya Gupta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Priya Gupta has over 12 years of experience in pulmonology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Asthma Management",
+            "Sleep Apnea Treatment"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Bronchitis treatment.  \n- Published studies on Pneumonia in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Pulmonology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to pulmonology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Asthma Management",
+            "Sleep Apnea Treatment",
+            "COPD Treatment"
+        ],
+        "conditions": [
+            "Bronchitis",
+            "Pneumonia",
+            "Lung Fibrosis"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Neha Rao",
+        "experience_in_years": 13,
+        "speciality": "Cardiology",
+        "doctor_image": "https://example.com/dr.-neha-rao.jpg",
+        "language_speaks": [
+            "Kannada",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Chennai",
+        "gender": "Female",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Neha Rao  \nDr. Neha Rao is a highly experienced cardiology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Neha Rao has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Neha Rao has over 13 years of experience in cardiology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Angioplasty",
+            "Pacemaker Implantation"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Heart Attack treatment.  \n- Published studies on Arrhythmia in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Cardiology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to cardiology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Angioplasty",
+            "Pacemaker Implantation",
+            "Echocardiography"
+        ],
+        "conditions": [
+            "Heart Attack",
+            "Arrhythmia",
+            "Hypertension"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Vikram Mehta",
+        "experience_in_years": 14,
+        "speciality": "Neurology",
+        "doctor_image": "https://example.com/dr.-vikram-mehta.jpg",
+        "language_speaks": [
+            "Bengali",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Hyderabad",
+        "gender": "Male",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Vikram Mehta  \nDr. Vikram Mehta is a highly experienced neurology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Vikram Mehta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Vikram Mehta has over 14 years of experience in neurology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "EEG",
+            "Stroke Treatment"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Epilepsy treatment.  \n- Published studies on Multiple Sclerosis in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Neurology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to neurology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "EEG",
+            "Stroke Treatment",
+            "Neuro Rehabilitation"
+        ],
+        "conditions": [
+            "Epilepsy",
+            "Multiple Sclerosis",
+            "Parkinson's Disease"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Anjali Sharma",
+        "experience_in_years": 15,
+        "speciality": "Orthopedics",
+        "doctor_image": "https://example.com/dr.-anjali-sharma.jpg",
+        "language_speaks": [
+            "Hindi",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Kolkata",
+        "gender": "Female",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Anjali Sharma  \nDr. Anjali Sharma is a highly experienced orthopedics specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Anjali Sharma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Anjali Sharma has over 15 years of experience in orthopedics treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Knee Replacement",
+            "Hip Replacement"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Osteoarthritis treatment.  \n- Published studies on Fractures in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Orthopedics Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to orthopedics.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Knee Replacement",
+            "Hip Replacement",
+            "Arthroscopy"
+        ],
+        "conditions": [
+            "Osteoarthritis",
+            "Fractures",
+            "Rheumatoid Arthritis"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Amit Verma",
+        "experience_in_years": 16,
+        "speciality": "Pediatrics",
+        "doctor_image": "https://example.com/dr.-amit-verma.jpg",
+        "language_speaks": [
+            "Tamil",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Pune",
+        "gender": "Male",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Amit Verma  \nDr. Amit Verma is a highly experienced pediatrics specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Amit Verma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Amit Verma has over 16 years of experience in pediatrics treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Child Vaccination",
+            "Growth Monitoring"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Flu treatment.  \n- Published studies on Nutritional Deficiencies in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Pediatrics Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to pediatrics.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Child Vaccination",
+            "Growth Monitoring",
+            "Pediatric Surgery"
+        ],
+        "conditions": [
+            "Flu",
+            "Nutritional Deficiencies",
+            "Developmental Delays"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Rajesh Gupta",
+        "experience_in_years": 17,
+        "speciality": "Dermatology",
+        "doctor_image": "https://example.com/dr.-rajesh-gupta.jpg",
+        "language_speaks": [
+            "Telugu",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Ahmedabad",
+        "gender": "Female",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Rajesh Gupta  \nDr. Rajesh Gupta is a highly experienced dermatology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Rajesh Gupta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Rajesh Gupta has over 17 years of experience in dermatology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Laser Treatment",
+            "Acne Management"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Eczema treatment.  \n- Published studies on Psoriasis in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Dermatology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to dermatology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Laser Treatment",
+            "Acne Management",
+            "Skin Allergy Treatment"
+        ],
+        "conditions": [
+            "Eczema",
+            "Psoriasis",
+            "Hyperpigmentation"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Priya Rao",
+        "experience_in_years": 18,
+        "speciality": "Oncology",
+        "doctor_image": "https://example.com/dr.-priya-rao.jpg",
+        "language_speaks": [
+            "Kannada",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Jaipur",
+        "gender": "Male",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Priya Rao  \nDr. Priya Rao is a highly experienced oncology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Priya Rao has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Priya Rao has over 18 years of experience in oncology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Chemotherapy",
+            "Radiotherapy"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Lung Cancer treatment.  \n- Published studies on Breast Cancer in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Oncology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to oncology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Chemotherapy",
+            "Radiotherapy",
+            "Cancer Screening"
+        ],
+        "conditions": [
+            "Lung Cancer",
+            "Breast Cancer",
+            "Leukemia"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Neha Mehta",
+        "experience_in_years": 19,
+        "speciality": "Endocrinology",
+        "doctor_image": "https://example.com/dr.-neha-mehta.jpg",
+        "language_speaks": [
+            "Bengali",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Lucknow",
+        "gender": "Female",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Neha Mehta  \nDr. Neha Mehta is a highly experienced endocrinology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Neha Mehta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Neha Mehta has over 19 years of experience in endocrinology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Diabetes Management",
+            "Thyroid Disorder Treatment"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Diabetes treatment.  \n- Published studies on Thyroid Disorders in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Endocrinology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to endocrinology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Diabetes Management",
+            "Thyroid Disorder Treatment",
+            "Hormonal Therapy"
+        ],
+        "conditions": [
+            "Diabetes",
+            "Thyroid Disorders",
+            "Obesity"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Vikram Sharma",
+        "experience_in_years": 20,
+        "speciality": "Gastroenterology",
+        "doctor_image": "https://example.com/dr.-vikram-sharma.jpg",
+        "language_speaks": [
+            "Hindi",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Mumbai",
+        "gender": "Male",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Vikram Sharma  \nDr. Vikram Sharma is a highly experienced gastroenterology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Vikram Sharma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Vikram Sharma has over 20 years of experience in gastroenterology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Endoscopy",
+            "Colonoscopy"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Acid Reflux treatment.  \n- Published studies on IBS in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Gastroenterology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to gastroenterology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Endoscopy",
+            "Colonoscopy",
+            "Liver Disease Treatment"
+        ],
+        "conditions": [
+            "Acid Reflux",
+            "IBS",
+            "Hepatitis"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Anjali Verma",
+        "experience_in_years": 21,
+        "speciality": "Nephrology",
+        "doctor_image": "https://example.com/dr.-anjali-verma.jpg",
+        "language_speaks": [
+            "Tamil",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Delhi",
+        "gender": "Female",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Anjali Verma  \nDr. Anjali Verma is a highly experienced nephrology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Anjali Verma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Anjali Verma has over 21 years of experience in nephrology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Dialysis",
+            "Kidney Transplant"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Kidney Failure treatment.  \n- Published studies on Nephrotic Syndrome in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Nephrology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to nephrology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Dialysis",
+            "Kidney Transplant",
+            "Chronic Kidney Disease Treatment"
+        ],
+        "conditions": [
+            "Kidney Failure",
+            "Nephrotic Syndrome",
+            "Urinary Tract Infections"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Amit Gupta",
+        "experience_in_years": 22,
+        "speciality": "Psychiatry",
+        "doctor_image": "https://example.com/dr.-amit-gupta.jpg",
+        "language_speaks": [
+            "Telugu",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Bangalore",
+        "gender": "Male",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Amit Gupta  \nDr. Amit Gupta is a highly experienced psychiatry specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Amit Gupta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Amit Gupta has over 22 years of experience in psychiatry treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Depression Treatment",
+            "Anxiety Therapy"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Schizophrenia treatment.  \n- Published studies on Bipolar Disorder in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Psychiatry Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to psychiatry.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Depression Treatment",
+            "Anxiety Therapy",
+            "Cognitive Behavioral Therapy"
+        ],
+        "conditions": [
+            "Schizophrenia",
+            "Bipolar Disorder",
+            "OCD"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Rajesh Rao",
+        "experience_in_years": 23,
+        "speciality": "Pulmonology",
+        "doctor_image": "https://example.com/dr.-rajesh-rao.jpg",
+        "language_speaks": [
+            "Kannada",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Chennai",
+        "gender": "Female",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Rajesh Rao  \nDr. Rajesh Rao is a highly experienced pulmonology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Rajesh Rao has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Rajesh Rao has over 23 years of experience in pulmonology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Asthma Management",
+            "Sleep Apnea Treatment"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Bronchitis treatment.  \n- Published studies on Pneumonia in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Pulmonology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to pulmonology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Asthma Management",
+            "Sleep Apnea Treatment",
+            "COPD Treatment"
+        ],
+        "conditions": [
+            "Bronchitis",
+            "Pneumonia",
+            "Lung Fibrosis"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Priya Mehta",
+        "experience_in_years": 24,
+        "speciality": "Cardiology",
+        "doctor_image": "https://example.com/dr.-priya-mehta.jpg",
+        "language_speaks": [
+            "Bengali",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Hyderabad",
+        "gender": "Male",
+        "degree": "MBBS, MD, DM",
+        "description": "### Dr. Priya Mehta  \nDr. Priya Mehta is a highly experienced cardiology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Priya Mehta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Priya Mehta has over 24 years of experience in cardiology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Angioplasty",
+            "Pacemaker Implantation"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Heart Attack treatment.  \n- Published studies on Arrhythmia in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Cardiology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to cardiology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Angioplasty",
+            "Pacemaker Implantation",
+            "Echocardiography"
+        ],
+        "conditions": [
+            "Heart Attack",
+            "Arrhythmia",
+            "Hypertension"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Neha Sharma",
+        "experience_in_years": 10,
+        "speciality": "Neurology",
+        "doctor_image": "https://example.com/dr.-neha-sharma.jpg",
+        "language_speaks": [
+            "Hindi",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Kolkata",
+        "gender": "Female",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Neha Sharma  \nDr. Neha Sharma is a highly experienced neurology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Neha Sharma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Neha Sharma has over 10 years of experience in neurology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "EEG",
+            "Stroke Treatment"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Epilepsy treatment.  \n- Published studies on Multiple Sclerosis in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Neurology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to neurology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "EEG",
+            "Stroke Treatment",
+            "Neuro Rehabilitation"
+        ],
+        "conditions": [
+            "Epilepsy",
+            "Multiple Sclerosis",
+            "Parkinson's Disease"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Vikram Verma",
+        "experience_in_years": 11,
+        "speciality": "Orthopedics",
+        "doctor_image": "https://example.com/dr.-vikram-verma.jpg",
+        "language_speaks": [
+            "Tamil",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Pune",
+        "gender": "Male",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Vikram Verma  \nDr. Vikram Verma is a highly experienced orthopedics specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Vikram Verma has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Vikram Verma has over 11 years of experience in orthopedics treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Knee Replacement",
+            "Hip Replacement"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Osteoarthritis treatment.  \n- Published studies on Fractures in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Orthopedics Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to orthopedics.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Knee Replacement",
+            "Hip Replacement",
+            "Arthroscopy"
+        ],
+        "conditions": [
+            "Osteoarthritis",
+            "Fractures",
+            "Rheumatoid Arthritis"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Anjali Gupta",
+        "experience_in_years": 12,
+        "speciality": "Pediatrics",
+        "doctor_image": "https://example.com/dr.-anjali-gupta.jpg",
+        "language_speaks": [
+            "Telugu",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Ahmedabad",
+        "gender": "Female",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Anjali Gupta  \nDr. Anjali Gupta is a highly experienced pediatrics specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Anjali Gupta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Anjali Gupta has over 12 years of experience in pediatrics treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Child Vaccination",
+            "Growth Monitoring"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Flu treatment.  \n- Published studies on Nutritional Deficiencies in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Pediatrics Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to pediatrics.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Child Vaccination",
+            "Growth Monitoring",
+            "Pediatric Surgery"
+        ],
+        "conditions": [
+            "Flu",
+            "Nutritional Deficiencies",
+            "Developmental Delays"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Amit Rao",
+        "experience_in_years": 13,
+        "speciality": "Dermatology",
+        "doctor_image": "https://example.com/dr.-amit-rao.jpg",
+        "language_speaks": [
+            "Kannada",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Jaipur",
+        "gender": "Male",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Amit Rao  \nDr. Amit Rao is a highly experienced dermatology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Amit Rao has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Amit Rao has over 13 years of experience in dermatology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Laser Treatment",
+            "Acne Management"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Eczema treatment.  \n- Published studies on Psoriasis in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Dermatology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to dermatology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Laser Treatment",
+            "Acne Management",
+            "Skin Allergy Treatment"
+        ],
+        "conditions": [
+            "Eczema",
+            "Psoriasis",
+            "Hyperpigmentation"
+        ]
+    },
+    {
+        "doctor_name": "Dr. Rajesh Mehta",
+        "experience_in_years": 14,
+        "speciality": "Oncology",
+        "doctor_image": "https://example.com/dr.-rajesh-mehta.jpg",
+        "language_speaks": [
+            "Bengali",
+            "English"
+        ],
+        "hospital_name": "Apollo Hospitals",
+        "city": "Lucknow",
+        "gender": "Female",
+        "degree": "MBBS, MD",
+        "description": "### Dr. Rajesh Mehta  \nDr. Rajesh Mehta is a highly experienced oncology specialist with expertise in treating various conditions. They have dedicated their career to patient care, research, and teaching. Having worked at top hospitals in India, they specialize in innovative treatments and procedures.  \n  \nThroughout their career, they have focused on providing personalized care, ensuring that every patient receives the best possible treatment. Their dedication to medical advancements has led to significant contributions in the field.  \n  \nAs a researcher and mentor, Dr. Rajesh Mehta has published several papers and has been a speaker at various conferences. Their work continues to influence future generations of medical professionals.",
+        "experience": "### Experience  \nDr. Rajesh Mehta has over 14 years of experience in oncology treatment, diagnosing complex cases and providing innovative solutions. They have performed numerous procedures and treated thousands of patients successfully. Their ability to analyze medical cases deeply has made them a trusted name in the field.  \n  \nBeyond clinical practice, they have contributed significantly to medical research. They have led various studies, helping shape advanced treatment protocols. They also teach at reputed medical colleges, inspiring young doctors to excel in their field.",
+        "special_interest": [
+            "Chemotherapy",
+            "Radiotherapy"
+        ],
+        "membership": [
+            "Indian Medical Association",
+            "Specialty Society of India"
+        ],
+        "research_and_publication": "### Research and Publications  \n- Authored research on Lung Cancer treatment.  \n- Published studies on Breast Cancer in international medical journals.  \n- Contributor to various health magazines and medical blogs.",
+        "awards_and_achievements": "### Awards and Achievements  \n- Awarded ‘Best Oncology Specialist’ by the National Medical Council.  \n- Honored for outstanding research contributions to oncology.  \n- Recognized for community service in healthcare awareness initiatives.",
+        "treatments": [
+            "Chemotherapy",
+            "Radiotherapy",
+            "Cancer Screening"
+        ],
+        "conditions": [
+            "Lung Cancer",
+            "Breast Cancer",
+            "Leukemia"
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Target the entire scrollbar */
+.scrollBar::-webkit-scrollbar {
+    height: 10px; /* Set the height of the scrollbar for horizontal scrolling */
+  }
+  
+  /* Target the scrollbar track (background) */
+.scrollBar::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Light grey background */
+  }
+  
+  /* Target the scrollbar thumb (the draggable part) */
+.scrollBar::-webkit-scrollbar-thumb {
+    background: #888; /* Darker grey color */
+    height:4px;
+    
+  }
+  
+  /* Hover effect for the scrollbar thumb */
+.scrollBar::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Darker grey when hovered */
+  }
+  
+
+.customscrollBarscrollBar::-webkit-scrollbar {
+   @apply w-1.5 h-4 /* Set the height of the scrollbar for horizontal scrolling */
+
+  }
+  
+  /* Target the scrollbar track (background) */
+.customscrollBarscrollBar::-webkit-scrollbar-track {
+@apply  bg-gray-200 w-2 rounded-lg /* Light grey background */
+  }
+  
+  /* Target the scrollbar thumb (the draggable part) */
+.customscrollBarscrollBar::-webkit-scrollbar-thumb {
+   @apply bg-sky-800/60 rounded-lg  w-2
+    
+  }
+  
+  /* Hover effect for the scrollbar thumb */
+.customscrollBar::-webkit-scrollbar-thumb:hover {
+    @apply bg-sky-800/45; /* Darker grey when hovered */
+  }
+
+  
+  @layer components {
+    .skeleton {
+      @apply bg-gradient-to-bl from-slate-100/60  via-gray-50/60 to-slate-100/45 bg-[length:40px_100%] bg-no-repeat bg-left animate-shine;
+    }
+  }
+
+
+  
+  
+    
