@@ -1,0 +1,134 @@
+import mongoose from 'mongoose'
+const appointmentSchema=new mongoose.Schema({
+    doctorName:{
+        type:String,
+        required:true,
+    },
+    morningtSlots:[
+      { time:"10.00AM",
+        count:0
+
+      },
+      {
+        time:"10:15AM",
+        count:0
+      },
+      {
+        time:"10:30AM",
+        count:0
+      },
+      {
+        time:"10:45AM",
+        count:0
+      },
+      {
+        time:"11:00AM",
+        count:0
+      },
+      {
+        time:"11:15AM",
+        count:0
+      },
+      {
+        time:"11:30AM",
+        count:0
+      },
+      {
+        time:"11:45AM",
+        count:0
+      },
+      {
+        time:"12:00PM",
+        count:0
+      }
+
+    ],
+    afternonSlots:[
+        { time:"12.30PM",
+            count:0
+    
+          },
+          {
+            time:"12:45PM",
+            count:0
+          },
+          {
+            time:"1:00PM",
+            count:0
+          },
+          {
+            time:"1:15PM",
+            count:0
+          },
+          {
+            time:"1:30PM",
+            count:0
+          },
+          {
+            time:"1:45PM",
+            count:0
+          },
+          {
+            time:"2:00PM",
+            count:0
+          },
+          {
+            time:"2:15PM",
+            count:0
+          },
+          {
+            time:"2:30PM",
+            count:0
+          },
+          {
+            time:"2:45PM",
+            count:0
+          },
+          {
+            time:"3:00PM",
+            count:0
+          },
+          {
+            time:"3:15PM",
+            count:0
+          },
+          {
+            time:"3:30PM",
+            count:0
+          },
+          {
+            time:"3:45PM",
+            count:0
+          },
+          {
+            time:"4:00PM",
+            count:0
+          },
+          {
+            time:"4:15PM",
+            count:0
+          },
+          {
+            time:"4:30PM",
+            count:0
+          },
+          {
+            time:"4:45PM",
+            count:0
+          }
+
+
+    ],
+    Date:{
+        type:Date
+    }
+
+},
+{
+    timestamps:{
+        required:true
+    }
+}
+)
+const appointment=mongoose.model("appointmentSlots",appointmentSchema)
+export default  appointment
